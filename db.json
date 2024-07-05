@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John H",
+      "username": "johndoe",
+      "email": "johndoeH@example.com",
+      "phone": "555-12347",
+      "website": "johndoe.com"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "janesmith@example.com",
+      "phone": "555-5678",
+      "website": "janesmith.com"
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "username": "bobjohnson",
+      "email": "bobjohnson@example.com",
+      "phone": "555-8765",
+      "website": "bobjohnson.com"
+    },
+    {
+      "id": "4",
+      "name": "Alice Williams",
+      "username": "alicewilliams",
+      "email": "alicewilliams@example.com",
+      "phone": "555-4321",
+      "website": "alicewilliams.com"
+    },
+    {
+      "id": "5",
+      "name": "Charlie Brown",
+      "username": "charliebrown",
+      "email": "charliebrown@example.com",
+      "phone": "555-1111",
+      "website": "charliebrown.com"
+    },
+    {
+      "id": "6",
+      "name": "Emily Davis",
+      "username": "emilydavis",
+      "email": "emilydavis@example.com",
+      "phone": "555-2222",
+      "website": "emilydavis.com"
+    }
+  ]
+}
